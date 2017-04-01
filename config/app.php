@@ -103,7 +103,7 @@ return [
     |
     */
 
-    'key' => MDUonTrG4lqAuS2m5oI6XRGS8qxtggvTMn2QQLsbX40,
+    'key' => base64_encode('MDUonTrG4lqAuS2m5oI6XRGS8qxtggvTMn2QQLsbX40='),
 
     'cipher' => 'AES-256-CBC',
 
